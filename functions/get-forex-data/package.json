@@ -1,0 +1,17 @@
+{
+  "name": "get-forex-data",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Daniel Brown <hi@mattbrown.email> (https://mattdanielbrown.com)",
+  "license": "MIT",
+  "dependencies": {
+    "env": "0.0.2",
+    "got": "9.6.0",
+    "node-fetch": "2.6.0",
+    "requests": "0.3.0"
+  }
+}
