@@ -1,0 +1,12 @@
+{
+  "name": "telegram-bot-endpoints",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matt Daniel Brown <hi@mattbrown.email> (https://dev.mattdanielbrown.com/)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "2.6.0",
+    "telegraf": "3.33.0"
+  }
+}
