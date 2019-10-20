@@ -25,7 +25,8 @@ exports.handler = async function(event, context) {
     return {
       statusCode: 200,
       // body: JSON.stringify({ msg: data.rates })
-      body: data.rates[TEMPORARY_REQUESTED_SYMBOL]
+      // body: JSON.stringify({exchangerate: data.rates[TEMPORARY_REQUESTED_SYMBOL]})
+      body: JSON.stringify({ rate: `$${data.rates[TEMPORARY_REQUESTED_SYMBOL]}`})
     }
   } catch (err) {
     console.log(err); // output to netlify function log
