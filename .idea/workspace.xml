@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4d744636-8d38-4dcd-9e1c-672ab01a241e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/fetch-forex-data/fetch-forex-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/fetch-forex-data/fetch-forex-data.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/functions/fetch-forex-data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../__HEROKU__/lit-refuge-57707" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -125,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571522780950</updated>
-      <workItem from="1571522782051" duration="2617000" />
+      <workItem from="1571522782051" duration="6300000" />
     </task>
     <servers />
   </component>
