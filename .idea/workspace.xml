@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d744636-8d38-4dcd-9e1c-672ab01a241e" name="Default Changelist" comment="" />
+    <list default="true" id="4d744636-8d38-4dcd-9e1c-672ab01a241e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/fetch-forex-data/fetch-forex-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/fetch-forex-data/fetch-forex-data.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571522780950</updated>
-      <workItem from="1571522782051" duration="1679000" />
+      <workItem from="1571522782051" duration="2248000" />
     </task>
     <servers />
   </component>
